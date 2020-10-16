@@ -1,1 +1,1 @@
-# Atividade---Semana-6
+Atividade da disciplina Gerência de Configurações
